@@ -1,0 +1,77 @@
+ROUND 1
+Candidate      Votes  Status
+-----------  -------  --------
+1             410034  Elected
+5              60860  Hopeful
+9              51001  Hopeful
+4              43141  Hopeful
+2              35820  Hopeful
+3              33436  Hopeful
+8              22516  Hopeful
+7              21076  Hopeful
+6              16072  Hopeful
+
+ROUND 2
+Candidate        Votes  Status
+-----------  ---------  --------
+1            115659.33  Elected
+2            179382.52  Elected
+5            121870.19  Elected
+9             88100.62  Hopeful
+4             60337.52  Hopeful
+3             53601.86  Hopeful
+8             27478.31  Hopeful
+7             26382.20  Hopeful
+6             21143.44  Hopeful
+
+ROUND 3
+Candidate        Votes  Status
+-----------  ---------  --------
+1            115659.33  Elected
+2            115659.33  Elected
+5            115659.33  Elected
+3            105887.33  Hopeful
+9             92472.76  Hopeful
+4             65888.83  Hopeful
+8             30900.80  Hopeful
+7             27983.08  Hopeful
+6             23845.20  Rejected
+
+ROUND 4
+Candidate        Votes  Status
+-----------  ---------  --------
+1            115659.33  Elected
+2            115659.33  Elected
+5            115659.33  Elected
+3            111565.65  Hopeful
+9             94695.39  Hopeful
+4             72378.55  Hopeful
+8             34252.91  Rejected
+7             34085.50  Rejected
+6                 0.00  Rejected
+
+ROUND 5
+Candidate        Votes  Status
+-----------  ---------  --------
+1            115659.33  Elected
+2            115659.33  Elected
+5            115659.33  Elected
+3            137153.07  Elected
+9            115429.95  Hopeful
+4             94394.99  Hopeful
+8                 0.00  Rejected
+7                 0.00  Rejected
+6                 0.00  Rejected
+
+FINAL RESULT
+Candidate        Votes  Status
+-----------  ---------  --------
+1            115659.33  Elected
+2            115659.33  Elected
+5            115659.33  Elected
+3            115659.33  Elected
+9            118243.83  Elected
+4            113074.83  Rejected
+8                 0.00  Rejected
+7                 0.00  Rejected
+6                 0.00  Rejected
